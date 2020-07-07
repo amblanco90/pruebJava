@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/index.jsp</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/vistas/edit.jsp</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Config/Conexion.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Modelo/PQR.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Modelo/Usuario.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Controlador/UsuarioControlador.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/vistas/pqrUser.jsp</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Intefaces/UsuarioInterface.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/vistas/add.jsp</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Intefaces/CRUD.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/ModeloDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/vistas/listar.jsp</file>
+            <file>file:/C:/Users/AM%20BLANCO/OneDrive/Escritorio/CRUD-MVC-JAVA/CRUD-MVC-JAVA/web/vistas/addUser.jsp</file>
+        </group>
+    </open-files>
+</project-private>
