@@ -47,7 +47,6 @@
                         <td><%= per.getEstado()%></td>
                         <td><%= per.getTipo()%></td>
                         <td><%= per.getIdUsuario()%></td>
-                        <td><%= per.getIdUsuario()%></td>
                         <td><%= per.getFechaCreacion()%></td>
                         <td><%= per.getFechaLimite()%></td>
                         <% if (per.vencimiento(per.getFechaLimite()) == false) {%>

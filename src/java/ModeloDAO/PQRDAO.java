@@ -78,7 +78,9 @@ public class PQRDAO implements CRUD {
             con = cn.getConexion();
             ps = con.prepareStatement(sql);
             ps.executeUpdate();
+            
         } catch (Exception e) {
+            
         }
         return false;
     }
